@@ -86,3 +86,9 @@ If you use DSPy or DSP in a research paper, please cite our work as follows:
 * [**Introducing DSP**](https://twitter.com/lateinteraction/status/1617953413576425472)  (Twitter Thread, Jan 2023)
 * [**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**](https://arxiv.org/abs/2212.14024.pdf) (Academic Paper, Dec 2022) -->
 
+---
+
+## Examples Used
+- Building a sentiment classifier with a declarative language-model program
+- Optimizing prompts and demonstrations against a validation set
+- Composing retrieval and generation in a multi-stage RAG pipeline
