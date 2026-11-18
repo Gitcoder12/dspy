@@ -86,3 +86,23 @@ If you use DSPy or DSP in a research paper, please cite our work as follows:
 * [**Introducing DSP**](https://twitter.com/lateinteraction/status/1617953413576425472)  (Twitter Thread, Jan 2023)
 * [**Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP**](https://arxiv.org/abs/2212.14024.pdf) (Academic Paper, Dec 2022) -->
 
+
+
+---
+
+## Branch Activity & Development History
+
+**Audit date:** 2026-11-18 · **Comparison base:** `main`
+
+| Branch | Difference from `main` | Observed work / changed paths |
+|---|---:|---|
+| `docs/portfolio-notes-2026-11-13` | 2 ahead / 1 behind | Attribution-safe portfolio notes, activity log, skills notes, company-fit notes, contributor notes and upgrade plan |
+| `docs/project-status-2026-11-16-dspy` | 1 ahead / 0 behind | Project status snapshot: `PROJECT_STATUS.md`; branch is ahead of current `main` |
+| `fix/cache-flush-utility` | 2 / 1 | Cache flush utility in `dspy/clients/cache.py` and cache tests |
+
+### Open pull requests observed during this audit
+
+- [PR #2 — project status snapshot](https://github.com/Gitcoder12/dspy/pull/2)
+- [PR #1 — attribution-safe portfolio notes](https://github.com/Gitcoder12/dspy/pull/1)
+
+**Verification boundary:** Git metadata and changed paths only. Run the cache test suite on the exact PR head and review attribution requirements before merging. No branches have been merged or deleted by this documentation update.
