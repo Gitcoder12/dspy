@@ -92,3 +92,21 @@ If you use DSPy or DSP in a research paper, please cite our work as follows:
 - Building a sentiment classifier with a declarative language-model program
 - Optimizing prompts and demonstrations against a validation set
 - Composing retrieval and generation in a multi-stage RAG pipeline
+
+
+---
+
+## Upstream Relationship and Comparison
+
+This repository is a fork of [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy), not an independently authored DSPy alternative. The upstream project is the canonical implementation of the DSPy framework for programming and optimizing language-model systems.
+
+### Current fork status (checked 2026-11-19)
+- Fork-only commits: **2**, both documentation-only (audit/provenance guidance and README examples).
+- Upstream commits not present in this fork: **94**.
+- No distinct algorithmic or product capability is established by the inspected fork-only commits.
+
+### What this fork adds
+The current local contribution is repository documentation and maintenance guidance. It should not be described as a new DSPy implementation or as better than upstream.
+
+### Recommendation
+Use upstream DSPy as the source of truth for framework functionality. Keep this fork only if it is needed for a clearly scoped experiment or documented contribution; periodically sync with upstream and record any future code changes separately from documentation-only changes.
